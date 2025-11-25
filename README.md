@@ -5,7 +5,7 @@
 
 Este proyecto consiste en el desarrollo de una **página web completa** dedicada exclusivamente al videojuego *DOOM: The Dark Age*, recientemente anunciado por id Software. La plataforma servirá como **punto de encuentro para la comunidad de fans**, ofreciendo contenido actualizado, información detallada del juego y espacios de interacción para los usuarios.
 
-> "La motivación principal es crear un espacio centralizado en español que ponga al alcance de la comunidad hispanohablante toda la información sobre DOOM: The Dark Age."
+> "La idea es hacer un lugar en español donde se pueda encontrar toda la información sobre DOOM a disposición de la comunidad hispanohablante". La Dark Ages".
 
 El sitio web contará con tres áreas diferenciadas:
 - Zona pública accesible para todos los visitantes
