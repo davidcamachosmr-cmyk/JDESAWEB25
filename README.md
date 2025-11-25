@@ -40,8 +40,8 @@ El proyecto está dirigido principalmente a:
 ## Tecnologías previstas
 
 ### Frontend
-- **HTML5** para estructura semántica
-- **CSS3** con Flexbox/Grid para diseño responsive
+- **HTML** para estructura semántica
+- **CSS** con Flexbox/Grid para diseño responsive
 - **JavaScript** para interactividad del cliente
 
 ### Backend
