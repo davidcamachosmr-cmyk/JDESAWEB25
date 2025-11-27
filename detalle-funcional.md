@@ -5,30 +5,31 @@ El sistema está diseñado con **cuatro roles principales** que determinan los n
 
 #### Roles Definidos:
 
-1. **Visitante No Registrado**
-   - Acceso a contenido público
-   - Visualización de noticias y artículos
-   - Navegación por información del juego
-   - *No puede interactuar con la comunidad*
+1. **Visitante no registrado**
+   - Acceso a información pública
+   - Exhibición de artículos y noticias
 
-2. **Usuario Registrado**
-   - Todas las funcionalidades de visitante
-   - Sistema de comentarios en noticias
+   - Navegación a través de información del juego
+   - **No tiene la capacidad de interactuar con la comunidad**
+
+2. **Usuario Inscrito**
+   - Todas las características del visitante
+   - Sistema de comentarios sobre las noticias
    - Perfil personalizable
-   - Participación en discusiones
-   - **Acceso a zona privada básica**
+   - Participación en diálogos
+   - **Acceso a área privada básica**
 
 3. **Moderador**
-   - Todas las funcionalidades de usuario
-   - Gestión y moderación de comentarios
-   - Eliminación de contenido inapropiado
-   - *Capacidad de advertir a usuarios*
+   - Todas las características del usuario
+   - Control y moderación de comentarios
+   - Suprimir contenido inadecuado
+   - *Capacidad para alertar a los usuarios*
 
-4. **Administrador**
-   - Control total del sistema
-   - Gestión de todos los usuarios
-   - Publicación y edición de noticias
-   - **Acceso completo al panel de administración**
+4. **Gerente**
+   - Dominio total del sistema
+   - Administración de todos los usuarios
+   - La publicación y edición de las noticias
+   - **Acceso total a la interfaz de administración**
 
 ### Flujo de Uso Principal
 
