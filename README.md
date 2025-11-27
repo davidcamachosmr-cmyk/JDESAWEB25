@@ -109,7 +109,7 @@ El proyecto está dirigido principalmente a:
 
 ### Diseño y prototipado
 
-![Boceto de interfaz](./images/boceto-interfaz.png)
+![Boceto de interfaz](./imagenes/Captura de pantalla 2025-11-06 180817.png)
 *Boceto preliminar de la página principal con estética DOOM*
 
 ## Futuras mejoras contempladas
