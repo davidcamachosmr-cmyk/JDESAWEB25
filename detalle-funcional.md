@@ -1,5 +1,4 @@
 ## Detalles Funcionales - DOOM: The Dark Age Website
-
 ### Tipos de Usuarios y Permisos
 
 El sistema está diseñado con **cuatro roles principales** que determinan los niveles de acceso y funcionalidades disponibles para cada tipo de usuario. Esta estructura *garantiza la seguridad* y organización del contenido comunitario.
